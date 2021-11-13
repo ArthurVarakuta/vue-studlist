@@ -1,0 +1,79 @@
+html{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+body {
+
+    background-color: lightgreen;
+
+}
+#ifElse{
+    margin: 20px 30px;
+    line-height: 35px;
+}
+#cycles{
+    margin: 20px 30px;
+    line-height: 30px;
+}
+#functionTask{
+    margin: 20px 30px;
+    line-height: 25px;
+}
+.picture{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 100px;
+}
+#LineTask{
+    margin: 20px 30px;
+    line-height: 25px;
+}
+.line-form{
+    line-height: 0px;
+    padding-top: 25px;
+    margin: 0 39% ;
+}
+#local-storage{
+    margin: 20px 30px;
+}
+.red{
+    color: red;
+}
+.black{
+    color: black;
+}
+
+.thirdNone{
+    background-color: none;
+}
+.img-pencil {
+    height: 100px;
+    width: 100px;
+}
+.btn{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+tr{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.input-user-panel{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    align-content: center;
+    max-width: 700px;
+    background-color: green;
+    padding: 20px;
+    border: 3px solid lightsalmon;
+    border-radius: 10px;
+}
